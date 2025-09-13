@@ -28,6 +28,8 @@ web3-journey/
 ├── research/         # Summaries of blogs, papers, articles
 └── LOG.md            # Daily/weekly learning logs
 
+```
+
 
 ## Learning Logs
 - [Rust Data Types](./rust/data-types.md)
